@@ -42,3 +42,13 @@
     background-color: #6b6b6b;
     color: rgb(231, 231, 231);
 }
+
+.footer{
+    font-size: small;
+    text-align: center;
+    color: #e6eaff;
+    background-color: #22305e;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
