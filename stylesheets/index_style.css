@@ -1,0 +1,43 @@
+@font-face {
+    font-family: ucf;
+    src: url("./fonts/take_cover/Take\ cover.ttf");
+}
+
+@font-face {
+    font-family: medieval;
+    src: url("./fonts/blackwood_castle/BLACCS__.TTF");
+}
+
+body {
+    background-color: rgba(3, 54, 105, 0.932);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.UC {
+    text-align: center;
+    font-family: ucf, Helvetica, Arial;
+    font-size: xxx-large;
+    color: black;
+}
+
+#menu{
+    float: left;
+    list-style: none;
+
+}
+
+
+#itemMenu{
+    display: block;
+    padding: 2vw;
+    background-color: #130757;
+  }
+
+
+  
