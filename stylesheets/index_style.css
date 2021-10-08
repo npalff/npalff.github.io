@@ -39,5 +39,30 @@ body {
     background-color: #130757;
   }
 
+/* Perfil Style */
 
-  
+.Personal-Card{
+
+
+}
+
+.pCard{
+    background-color:cornflowerblue;
+    /* opacity: 0.5; */
+
+}
+
+
+.perfilPhoto{
+    width: 45%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+
+}
+
+.perfilText{
+    text-align: left;
+    font-weight: normal;
+}
