@@ -30,19 +30,13 @@ body {
     width: 50%;
 }
 
-
-#menu{
-    float: left;
-    list-style: none;
-
+.UC {
+    text-align: center;
+    font-family: ucf, Helvetica, Arial;
+    font-size: xxx-large;
+    color: black;
 }
 
-
-#itemMenu{
-    display: block;
-    padding: 2vw;
-    background-color: #130757;
-  }
 
 /* Perfil Style */
 
