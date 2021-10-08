@@ -58,6 +58,7 @@ body {
 }
 
 
+
 .perfilPhoto{
     width: 45%;
     height: auto;
@@ -67,7 +68,12 @@ body {
 
 }
 
+#perfilTitle{
+ text-align: center;   
+}
+
 .perfilText{
+    
     text-align: left;
     font-weight: normal;
 }
