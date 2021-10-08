@@ -8,6 +8,16 @@
     src: url("./fonts/blackwood_castle/BLACCS__.TTF");
 }
 
+@font-face {
+    font-family: sportif;
+    src: url("./fonts/sports_jersey/sportsjersey.ttf");
+}
+
+@font-face {
+    font-family: college;
+    src: url("./fonts/college-boy/College Boy.otf");
+}
+
 body {
     /* background-color: rgba(3, 54, 105, 0.932); */
     background-color: rgb(104, 100, 100);
@@ -20,12 +30,6 @@ body {
     width: 50%;
 }
 
-.UC {
-    text-align: center;
-    font-family: ucf, Helvetica, Arial;
-    font-size: xxx-large;
-    color: black;
-}
 
 #menu{
     float: left;
@@ -58,7 +62,6 @@ body {
 }
 
 
-
 .perfilPhoto{
     width: 45%;
     height: auto;
@@ -68,12 +71,11 @@ body {
 
 }
 
-#perfilTitle{
- text-align: center;   
+.perfilTitle{
+    text-align: center;
 }
 
 .perfilText{
-    
     text-align: left;
     font-weight: normal;
 }
