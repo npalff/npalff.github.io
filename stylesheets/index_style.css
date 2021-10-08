@@ -9,7 +9,8 @@
 }
 
 body {
-    background-color: rgba(3, 54, 105, 0.932);
+    /* background-color: rgba(3, 54, 105, 0.932); */
+    background-color: rgb(104, 100, 100);
 }
 
 .center {
@@ -42,12 +43,16 @@ body {
 /* Perfil Style */
 
 .Personal-Card{
-
+    border-left: auto;
+    border-right: auto;
 
 }
 
 .pCard{
-    background-color:cornflowerblue;
+    background-color:rgba(100, 148, 237, 0.348);
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
     /* opacity: 0.5; */
 
 }
